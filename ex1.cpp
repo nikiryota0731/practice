@@ -6,5 +6,7 @@
      int x = 0;
      printf("%d", x);
 
+     printf("hoge");
+
      return 0;
  }
